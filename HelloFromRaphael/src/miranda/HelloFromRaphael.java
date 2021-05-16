@@ -8,7 +8,5 @@ public class HelloFromRaphael {
         System.out.println("Hello From Raphael!");
         System.out.println("Hello From Team Members");
         System.out.println("Hello Raphael, my name is Evgeniy");
-
-
     }
 }
